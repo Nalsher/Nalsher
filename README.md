@@ -1,10 +1,4 @@
 ## Hi 👋
-
-<h1>
-- 🔭 I’m currently working on ...
-  <a href="https://github.com/seamusic-official"/><img src="https://avatars.githubusercontent.com/u/179958670?s=200&v=4" width="120px"/></a>
-</h1>
-
 <!--
 **Nalsher/Nalsher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
