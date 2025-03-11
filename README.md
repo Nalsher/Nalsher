@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋 Nalsher</h1>
-<h3 align="center">A FullStack developer from Russia with love</h3>
+<h3 align="center">FullStack developer from Russia with love</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalsher&label=Profile%20views&color=0e75b6&style=flat" alt="nalsher" /> </p>
 
