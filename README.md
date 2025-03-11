@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Kiberex](http:kiberex.ru/)
 
-- 💬 Ask me about **Python,Django,Psql,Js,Vue**
+- 💬 Ask me about **Python,Django,PostgreSQL,JavaScript,VueJS**
 
 - 📫 How to reach me **t.me/Nalsher**
 
