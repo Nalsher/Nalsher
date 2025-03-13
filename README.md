@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nalsher&label=Profile%20views&color=0e75b6&style=flat" alt="nalsher" /> </p>
 
-- 🔭 I’m currently working on [Kiberex](http:kiberex.ru/)
+- 🔭 I’m currently working at [Kiberex](http:kiberex.ru/)
 
 - 💬 Ask me about **Python,Django,PostgreSQL,JavaScript,VueJS**
 
